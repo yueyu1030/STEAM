@@ -8,15 +8,7 @@ This is the code repository for our KDD'20 paper STEAM: Self-Supervised Taxonomy
 * Scipy
 * Numpy
 * transformers
-<!-- ## Features
-* Clear folder structure which is suitable for many deep learning projects.
-* `.json` config file support for convenient parameter tuning.
-* Customizable command line options for more convenient parameter tuning.
-* Checkpoint saving and resuming.
-* Abstract base classes for faster development:
-  * `BaseTrainer` handles checkpoint saving/resuming, training process logging, and more.
-  * `BaseDataLoader` handles batch generation, data shuffling, and validation data splitting.
-  * `BaseModel` provides basic model summary. -->
+
 ## Folder Structure
   ```
   ├── model/ - models, losses, and metrics
@@ -69,8 +61,8 @@ The way to obtain your own corpus is described as follows
   - To build everything from scratch, first download corpora such as [Wikipedia](https://dumps.wikimedia.org/), [UMBC](https://ebiquity.umbc.edu/resource/html/id/351/UMBC-webbase-corpus), and [1 Billion Word Language Model Benchmark](http://www.statmt.org/lm-benchmark/).
   - To preprocess the corpus, generate a vocabulary file and use the scripts based on [LexNET](https://github.com/vered1986/LexNET). Please refer to the instructions [here](https://github.com/vered1986/LexNET/wiki/Detailed-Guide). It may take several hours to finish this process. 
 - For Lexico-Syntactic Features:
-  - Use `model/gen_lexico_features.py` to generate linguistic patterns.
-  - For term frequency patterns, please refer to the instructions [here](https://github.com/uhh-lt/taxi).
+  - Use `model/gen_lexico_features.py` to generate linguistic patterns based on surface name of terms.
+  - For term frequency patterns from TAXI, please refer to the instructions [here](https://github.com/uhh-lt/taxi).
 ## TODOs
 
 - [ ] Support more tensorboard functions
@@ -89,4 +81,3 @@ If you find this paper useful for your research, please cite the following paper
   year={2020}
 }
 ```
-
