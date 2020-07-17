@@ -1,0 +1,147 @@
+0	molecular biology	life science	hypernymy
+1	cancer biology	cell biology	hypernymy
+2	aquatic ecology	ecology	hypernymy
+3	molecular genetics	life science	hypernymy
+4	immunopathology	immunology	hypernymy
+5	parasitology	immunology	hypernymy
+6	psychology of movement	kinesiology	hypernymy
+7	pathogenic microbiology	microbiology	hypernymy
+8	developmental neuroscience	neuroscience	hypernymy
+9	toxicology	life science	hypernymy
+10	cellular physiology	physiology	hypernymy
+11	molecular physiology	physiology	hypernymy
+12	comparative physiology	physiology	hypernymy
+13	aquaculture and fisheries	animal science	hypernymy
+14	dairy science	animal science	hypernymy
+15	poultry science	animal science	hypernymy
+16	food biotechnology	food science	hypernymy
+17	forest biology	forest sciences	hypernymy
+18	forest management	forest sciences	hypernymy
+19	pulp/paper technology	forest sciences	hypernymy
+20	comparative nutrition	nutrition	hypernymy
+21	clinical nutrition	nutrition	hypernymy
+22	community nutrition	nutrition	hypernymy
+23	nutritional epidemiology	nutrition	hypernymy
+24	plant breeding	plant science	hypernymy
+25	control theory	applied mathematics	hypernymy
+26	dynamic systems	applied mathematics	hypernymy
+27	ordinary differential equations	applied mathematics	hypernymy
+28	applied dynamics	applied mathematics	hypernymy
+29	the sun and the solar system	astrophysics and astronomy	hypernymy
+30	analytical chemistry	chemistry	hypernymy
+31	environmental chemistry	chemistry	hypernymy
+32	physical chemistry	chemistry	hypernymy
+33	polymer chemistry	chemistry	hypernymy
+34	robotics	computer science	hypernymy
+35	human computer interfaces	computer science	hypernymy
+36	geology	earth science	hypernymy
+37	geophysics	earth science	hypernymy
+38	glaciology	earth science	hypernymy
+39	discrete mathematics and combinatorics	mathematics	hypernymy
+40	harmonic analysis and representation	mathematics	hypernymy
+41	atmospheric sciences	physical science	hypernymy
+42	atomic, molecular and optical physics	physics	hypernymy
+43	condensed matter physics	physics	hypernymy
+44	non-linear dynamics	physics	hypernymy
+45	optics	physics	hypernymy
+46	statistical methodology	statistics and probability	hypernymy
+47	multidisciplinary design optimization	aerospace engineering	hypernymy
+48	propulsion and power	aerospace engineering	hypernymy
+49	multi-vehicle systems	aerospace engineering	hypernymy
+50	biological engineering	engineering	hypernymy
+51	bioelectrical and neuroengineering	engineering	hypernymy
+52	molecular, cellular, and tissue engineering	engineering	hypernymy
+53	membrane science	chemical engineering	hypernymy
+54	thermodynamics	chemical engineering	hypernymy
+55	environmental engineering	engineering	hypernymy
+56	geotechnical engineering	engineering	hypernymy
+57	structural engineering	engineering	hypernymy
+58	robotics	computer engineering	hypernymy
+59	control theory	electrical engineering	hypernymy
+60	power and energy	electrical engineering	hypernymy
+61	signal processing	electrical engineering	hypernymy
+62	engineering mechanics	engineering science	hypernymy
+63	non-linear dynamics	engineering science	hypernymy
+64	mechanics of materials	engineering science	hypernymy
+65	ceramic materials	materials science	hypernymy
+66	polymer and organic materials	materials science	hypernymy
+67	biomechanical engineering	mechanical engineering	hypernymy
+68	computer-aided engineering and design	mechanical engineering	hypernymy
+69	electro-mechanical systems	mechanical engineering	hypernymy
+70	ocean engineering	mechanical engineering	hypernymy
+71	social anthropology	anthropology	hypernymy
+72	broadcast studies	communication	hypernymy
+73	gender, race, sexuality, and ethnicity in communication	communication	hypernymy
+74	health communication	communication	hypernymy
+75	international and intercultural communication	communication	hypernymy
+76	organizational communication	communication	hypernymy
+77	economic theory	economics	hypernymy
+78	industrial organization	economics	hypernymy
+79	macroeconomics	economics	hypernymy
+80	physical and environmental geography	geography	hypernymy
+81	nature and society relations	geography	hypernymy
+82	first language acquisition	linguistics	hypernymy
+83	typological linguistics	linguistics	hypernymy
+84	linguistic diversity	linguistics	hypernymy
+85	language description	linguistics	hypernymy
+86	political science	social science	hypernymy
+87	american politics	political science	hypernymy
+88	comparative politics	political science	hypernymy
+89	international relations	political science	hypernymy
+90	models and methods	political science	hypernymy
+91	political theory	political science	hypernymy
+92	public affairs	social science	hypernymy
+93	biological psychology	psychology	hypernymy
+94	cognitive psychology	psychology	hypernymy
+95	community psychology	psychology	hypernymy
+96	developmental psychology	psychology	hypernymy
+97	personality and social contexts	psychology	hypernymy
+98	gender and sexuality	sociology	hypernymy
+99	place and environment	sociology	hypernymy
+100	race and ethnicity	sociology	hypernymy
+101	rural sociology	sociology	hypernymy
+102	social psychology and interaction	sociology	hypernymy
+103	criminology	sociology	hypernymy
+104	american material culture	american studies	hypernymy
+105	american popular culture	american studies	hypernymy
+106	ancient philosophy	classics	hypernymy
+107	byzantine and modern greek	classics	hypernymy
+108	classical literature and philology	classics	hypernymy
+109	literature in english, anglophone	english language and literature	hypernymy
+110	rhetoric and composition	english language and literature	hypernymy
+111	french and francophone literature	french and francophone language and literature	hypernymy
+112	german literature	german language and literature	hypernymy
+113	east asian languages and societies	humanities	hypernymy
+114	latin american languages and societies	humanities	hypernymy
+115	near eastern languages and societies	humanities	hypernymy
+116	south and southeast asian languages and societies	humanities	hypernymy
+117	islamic world/near east history	history	hypernymy
+118	latin american history	history	hypernymy
+119	united states history	history	hypernymy
+120	history of religion	history	hypernymy
+121	medieval history	history	hypernymy
+122	women’s history	history	hypernymy
+123	contemporary art history	history	hypernymy
+124	ethnomusicology	music	hypernymy
+125	music theory	music	hypernymy
+126	ethics and political philosophy	philosophy	hypernymy
+127	feminist philosophy	philosophy	hypernymy
+128	logic and foundations of mathematics	philosophy	hypernymy
+129	philosophy of mind	philosophy	hypernymy
+130	history of religions of eastern origins	religion	hypernymy
+131	religious thought	religion	hypernymy
+132	spanish linguistics	humanities	hypernymy
+133	religion	religious affiliation	synonym
+134	mathematics	arithmetic	synonym
+135	aerospace engineering	aerospace industry	synonym
+136	aerospace engineering	Aerospace engineering	synonym
+137	materials science	Materials Science	synonym
+138	political science	polisci	synonym
+139	political science	politics	synonym
+140	political science	political studies	synonym
+141	animal science	zootechnics	synonym
+142	computer science	CompSci	synonym
+143	computer science	sciences of computing	synonym
+144	computer science	information processing science	synonym
+145	computer science	Computer Science	synonym
+146	philosophy	doctrine	synonym

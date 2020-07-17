@@ -1,0 +1,611 @@
+0	ornithology	zoology	hypernymy
+1	surface chemistry	chemistry	hypernymy
+2	geography	earth science	hypernymy
+3	economic geology	geology	hypernymy
+4	nutrition	science	hypernymy
+5	thanatology	science	hypernymy
+6	dermatology	medicine	hypernymy
+7	mathematics	science	hypernymy
+8	social anthropology	anthropology	hypernymy
+9	microelectronics	electronics	hypernymy
+10	sociometry	sociology	hypernymy
+11	vector algebra	algebra	hypernymy
+12	tectonics	morphology	hypernymy
+13	differential psychology	psychology	hypernymy
+14	bioremediation	biotechnology	hypernymy
+15	forestry	biology	hypernymy
+16	acoustics	physics	hypernymy
+17	neurophysiology	neuroscience	hypernymy
+18	paleodendrology	paleobotany	hypernymy
+19	medical science	life science	hypernymy
+20	partial correlation	correlation	hypernymy
+21	macroeconomics	economics	hypernymy
+22	histology	microscopic anatomy	hypernymy
+23	physical anthropology	anthropology	hypernymy
+24	analysis	calculus	hypernymy
+25	cytology	biology	hypernymy
+26	mythology	social anthropology	hypernymy
+27	petrology	morphology	hypernymy
+28	internal medicine	medicine	hypernymy
+29	genomics	genetics	hypernymy
+30	micropaleontology	paleontology	hypernymy
+31	negative correlation	correlation	hypernymy
+32	conchology	malacology	hypernymy
+33	prescriptive grammar	grammar	hypernymy
+34	phycology	botany	hypernymy
+35	matrix algebra	algebra	hypernymy
+36	computational linguistics	linguistics	hypernymy
+37	supply side economics	economics	hypernymy
+38	ophthalmology	medicine	hypernymy
+39	paleodendrology	paleobotany	hypernymy
+40	eugenics	life science	hypernymy
+41	quantum mechanics	quantum physics	hypernymy
+42	nephology	meteorology	hypernymy
+43	dentistry	medicine	hypernymy
+44	organic chemistry	chemistry	hypernymy
+45	psychometry	psychology	hypernymy
+46	freudian psychology	psychotherapy	hypernymy
+47	volcanology	geophysics	hypernymy
+48	immunology	medicine	hypernymy
+49	sociobiology	biology	hypernymy
+50	curvilinear correlation	correlation	hypernymy
+51	osteology	anatomy	hypernymy
+52	hydrodynamics	fluid mechanics	hypernymy
+53	morphophonemics	descriptive linguistics	hypernymy
+54	cladistics	taxonomy	hypernymy
+55	paleobiology	paleontology	hypernymy
+56	powder metallurgy	metallurgy	hypernymy
+57	crystallography	physics	hypernymy
+58	biometrics	statistics	hypernymy
+59	probability theory	applied mathematics	hypernymy
+60	paleornithology	paleozoology	hypernymy
+61	cryobiology	biology	hypernymy
+62	neuropsychiatry	medicine	hypernymy
+63	mechanics	physics	hypernymy
+64	psychiatry	medicine	hypernymy
+65	natural language processing	information science	hypernymy
+66	affine geometry	geometry	hypernymy
+67	spurious correlation	correlation	hypernymy
+68	comparative psychology	psychology	hypernymy
+69	nosology	medicine	hypernymy
+70	applied psychology	psychology	hypernymy
+71	electron optics	electronics	hypernymy
+72	entomology	zoology	hypernymy
+73	undercut	forestry	hypernymy
+74	aeromedicine	biomedicine	hypernymy
+75	microbiology	biology	hypernymy
+76	dietetics	life science	hypernymy
+77	topography	geography	hypernymy
+78	pharmacogenetics	genetics	hypernymy
+79	psychotherapy	psychiatry	hypernymy
+80	immunochemistry	immunology	hypernymy
+81	statistics	applied mathematics	hypernymy
+82	otology	medicine	hypernymy
+83	fluid mechanics	mechanics	hypernymy
+84	solid geometry	geometry	hypernymy
+85	pediatrics	medicine	hypernymy
+86	demography	sociology	hypernymy
+87	anesthesiology	medicine	hypernymy
+88	electrostatics	physics	hypernymy
+89	econometrics	economics	hypernymy
+90	geochemistry	chemistry	hypernymy
+91	paleomammalogy	paleozoology	hypernymy
+92	craniology	life science	hypernymy
+93	cognitive semantics	semantics	hypernymy
+94	mycology	botany	hypernymy
+95	physics	natural science	hypernymy
+96	geriatrics	medicine	hypernymy
+97	psycholinguistics	cognitive psychology	hypernymy
+98	dental surgery	dentistry	hypernymy
+99	protozoology	zoology	hypernymy
+100	obstetrics	medicine	hypernymy
+101	endocrinology	medicine	hypernymy
+102	gross anatomy	anatomy	hypernymy
+103	quantum electrodynamics	quantum field theory	hypernymy
+104	solid state physics	physics	hypernymy
+105	behaviorism	experimental psychology	hypernymy
+106	nuclear medicine	medicine	hypernymy
+107	paletiology	archeology	hypernymy
+108	paleozoology	paleobiology	hypernymy
+109	exobiology	biology	hypernymy
+110	geometry	pure mathematics	hypernymy
+111	biomedical science	life science	hypernymy
+112	biotechnology	molecular biology	hypernymy
+113	bacteriology	medicine	hypernymy
+114	natural science	science	hypernymy
+115	thermochemistry	chemistry	hypernymy
+116	selenology	astronomy	hypernymy
+117	zymology	biochemistry	hypernymy
+118	physics	natural science	hypernymy
+119	neurology	medical science	hypernymy
+120	functional anatomy	anatomy	hypernymy
+121	natural history	science	hypernymy
+122	neuroanatomy	anatomy	hypernymy
+123	cosmography	natural science	hypernymy
+124	femtochemistry	chemistry	hypernymy
+125	hydrology	geophysics	hypernymy
+126	stratigraphy	geology	hypernymy
+127	holography	optics	hypernymy
+128	ritualism	social anthropology	hypernymy
+129	physiological psychology	psychology	hypernymy
+130	posology	pharmacology	hypernymy
+131	astrophysics	astronomy	hypernymy
+132	genetic engineering	biotechnology	hypernymy
+133	endodontics	dentistry	hypernymy
+134	ethnography	anthropology	hypernymy
+135	wave mechanics	quantum mechanics	hypernymy
+136	proctology	medicine	hypernymy
+137	magnetohydrodynamics	hydrodynamics	hypernymy
+138	geophysics	geology	hypernymy
+139	embryology	biology	hypernymy
+140	social science	science	hypernymy
+141	radiochemistry	chemistry	hypernymy
+142	spherical trigonometry	trigonometry	hypernymy
+143	compound morphology	morphology	hypernymy
+144	herpetology	zoology	hypernymy
+145	virology	medicine	hypernymy
+146	podiatry	medicine	hypernymy
+147	descriptive linguistics	linguistics	hypernymy
+148	morphology	geophysics	hypernymy
+149	epigraphy	paleography	hypernymy
+150	radio astronomy	astronomy	hypernymy
+151	cognitive science	science	hypernymy
+152	biomedicine	medicine	hypernymy
+153	silviculture	forestry	hypernymy
+154	elliptic geometry	non euclidean geometry	hypernymy
+155	problem solving	cognitive psychology	hypernymy
+156	functional genomics	genomics	hypernymy
+157	spherical geometry	geometry	hypernymy
+158	mining geology	economic geology	hypernymy
+159	integral calculus	calculus	hypernymy
+160	petroleum geology	economic geology	hypernymy
+161	climatology	meteorology	hypernymy
+162	politics	social science	hypernymy
+163	anatomy	morphology	hypernymy
+164	optics	physics	hypernymy
+165	pure mathematics	mathematics	hypernymy
+166	neuroscience	neurobiology	hypernymy
+167	statics	mechanics	hypernymy
+168	social psychology	psychology	hypernymy
+169	agrology	science	hypernymy
+170	chemistry	natural science	hypernymy
+171	classical mechanics	mechanics	hypernymy
+172	paleography	archeology	hypernymy
+173	garbology	social anthropology	hypernymy
+174	perinatology	obstetrics	hypernymy
+175	biometrics	life science	hypernymy
+176	hydrography	oceanography	hypernymy
+177	neurobiology	biology	hypernymy
+178	paleornithology	paleozoology	hypernymy
+179	radiology	medical science	hypernymy
+180	therapeutics	medicine	hypernymy
+181	prosthetics	medicine	hypernymy
+182	historical linguistics	linguistics	hypernymy
+183	lepidopterology	entomology	hypernymy
+184	trigonometry	pure mathematics	hypernymy
+185	protohistory	archeology	hypernymy
+186	astrometry	astronomy	hypernymy
+187	electrochemistry	chemistry	hypernymy
+188	group dynamics	psychodynamics	hypernymy
+189	inflectional morphology	morphology	hypernymy
+190	craniometry	physical anthropology	hypernymy
+191	metrology	science	hypernymy
+192	systematics	science	hypernymy
+193	photochemistry	chemistry	hypernymy
+194	calculus	pure mathematics	hypernymy
+195	medicine	medical science	hypernymy
+196	architectonics	science	hypernymy
+197	algorism	arithmetic	hypernymy
+198	rheumatology	medicine	hypernymy
+199	cognitive psychology	psychology	hypernymy
+200	phrenology	craniology	hypernymy
+201	differential calculus	calculus	hypernymy
+202	fourier analysis	analysis	hypernymy
+203	molecular biology	biology	hypernymy
+204	ballistics	dynamics	hypernymy
+205	solar physics	astronomy	hypernymy
+206	particle physics	physics	hypernymy
+207	projective geometry	geometry	hypernymy
+208	paleopathology	pathology	hypernymy
+209	quantum field theory	quantum physics	hypernymy
+210	linear algebra	algebra	hypernymy
+211	neurolinguistics	linguistics	hypernymy
+212	catoptrics	optics	hypernymy
+213	biochemistry	organic chemistry	hypernymy
+214	inorganic chemistry	chemistry	hypernymy
+215	geodesy	geophysics	hypernymy
+216	galois theory	group theory	hypernymy
+217	cosmology	astrophysics	hypernymy
+218	oceanography	earth science	hypernymy
+219	physiology	biology	hypernymy
+220	syntax	grammar	hypernymy
+221	ethology	zoology	hypernymy
+222	vertebrate paleontology	paleontology	hypernymy
+223	biology	life science	hypernymy
+224	linguistics	science	hypernymy
+225	immunochemistry	chemistry	hypernymy
+226	metallurgy	science	hypernymy
+227	enzymology	biochemistry	hypernymy
+228	lexicostatistics	etymology	hypernymy
+229	proteomics	genetics	hypernymy
+230	paleology	archeology	hypernymy
+231	hematology	medicine	hypernymy
+232	structuralism	linguistics	hypernymy
+233	psychodynamics	social psychology	hypernymy
+234	hydrostatics	fluid mechanics	hypernymy
+235	ecology	biology	hypernymy
+236	paleogeology	geology	hypernymy
+237	biophysics	physics	hypernymy
+238	pathology	medical science	hypernymy
+239	thoracic medicine	medicine	hypernymy
+240	pharmacy	medicine	hypernymy
+241	biosystematics	systematics	hypernymy
+242	pharmacology	medicine	hypernymy
+243	correlation	statistics	hypernymy
+244	urology	medicine	hypernymy
+245	sociolinguistics	linguistics	hypernymy
+246	gynecology	medicine	hypernymy
+247	set theory	pure mathematics	hypernymy
+248	finance	economics	hypernymy
+249	paleobotany	paleobiology	hypernymy
+250	information science	science	hypernymy
+251	cryogenics	physics	hypernymy
+252	thermostatics	thermodynamics	hypernymy
+253	limnology	earth science	hypernymy
+254	cytogenetics	cytology	hypernymy
+255	geostrategy	geopolitics	hypernymy
+256	aerology	meteorology	hypernymy
+257	paleoanthropology	vertebrate paleontology	hypernymy
+258	space medicine	medicine	hypernymy
+259	veterinary medicine	medicine	hypernymy
+260	paleopathology	archeology	hypernymy
+261	exodontics	dental surgery	hypernymy
+262	cytogenetics	genetics	hypernymy
+263	dynamics	mechanics	hypernymy
+264	topology	topography	hypernymy
+265	kinematics	mechanics	hypernymy
+266	phonetics	acoustics	hypernymy
+267	paleoethnography	archeology	hypernymy
+268	bioclimatology	climatology	hypernymy
+269	protoarcheology	protohistory	hypernymy
+270	aeromechanics	mechanics	hypernymy
+271	marine archeology	archeology	hypernymy
+272	semantics	linguistics	hypernymy
+273	numerical analysis	pure mathematics	hypernymy
+274	ichthyology	zoology	hypernymy
+275	neurology	medicine	hypernymy
+276	formal semantics	semantics	hypernymy
+277	microscopic anatomy	anatomy	hypernymy
+278	agronomy	science	hypernymy
+279	ethnology	anthropology	hypernymy
+280	myology	physiology	hypernymy
+281	criminology	sociology	hypernymy
+282	comparative anatomy	anatomy	hypernymy
+283	psychophysics	experimental psychology	hypernymy
+284	first order correlation	partial correlation	hypernymy
+285	archeology	anthropology	hypernymy
+286	microeconomics	economics	hypernymy
+287	astronomy	physics	hypernymy
+288	anthropology	social science	hypernymy
+289	nuclear physics	physics	hypernymy
+290	developmental anatomy	anatomy	hypernymy
+291	paleobotany	paleobiology	hypernymy
+292	economics	social science	hypernymy
+293	rhinolaryngology	medicine	hypernymy
+294	physical geography	geography	hypernymy
+295	mineralogy	geology	hypernymy
+296	cognitive neuroscience	neuroscience	hypernymy
+297	geology	earth science	hypernymy
+298	etymology	linguistics	hypernymy
+299	serology	medical science	hypernymy
+300	pharmacokinetics	pharmacology	hypernymy
+301	teratology	embryology	hypernymy
+302	hyperbolic geometry	non euclidean geometry	hypernymy
+303	cosmetic dentistry	dentistry	hypernymy
+304	clinical psychology	psychotherapy	hypernymy
+305	algebra	pure mathematics	hypernymy
+306	realpolitik	politics	hypernymy
+307	cardiology	medicine	hypernymy
+308	psephology	sociology	hypernymy
+309	genetics	biology	hypernymy
+310	egyptology	archeology	hypernymy
+311	radiobiology	biology	hypernymy
+312	geopolitics	politics	hypernymy
+313	paleomammalogy	paleozoology	hypernymy
+314	applied mathematics	mathematics	hypernymy
+315	sumerology	archeology	hypernymy
+316	non euclidean geometry	geometry	hypernymy
+317	proxemics	social science	hypernymy
+318	allergology	medicine	hypernymy
+319	earth science	natural science	hypernymy
+320	derivational morphology	morphology	hypernymy
+321	cytogenetics	cytology	hypernymy
+322	linear programming	applied mathematics	hypernymy
+323	tropical medicine	medicine	hypernymy
+324	strategics	science	hypernymy
+325	life science	natural science	hypernymy
+326	home economics	social science	hypernymy
+327	biomedicine	medicine	hypernymy
+328	paleoecology	ecology	hypernymy
+329	assyriology	archeology	hypernymy
+330	paleogeography	archeology	hypernymy
+331	toxicology	pharmacology	hypernymy
+332	sociology	social science	hypernymy
+333	dysgenics	life science	hypernymy
+334	orthodontics	dentistry	hypernymy
+335	electronics	physics	hypernymy
+336	psychology	science	hypernymy
+337	magnetism	geophysics	hypernymy
+338	hypsography	geology	hypernymy
+339	malacology	zoology	hypernymy
+340	positive correlation	correlation	hypernymy
+341	orthopedics	medical science	hypernymy
+342	developmental psychology	psychology	hypernymy
+343	surgery	medical science	hypernymy
+344	morphology	grammar	hypernymy
+345	topology	pure mathematics	hypernymy
+346	dialect geography	linguistics	hypernymy
+347	reflexology	behaviorism	hypernymy
+348	cryptanalysis	science	hypernymy
+349	aeronautics	physics	hypernymy
+350	pneumatics	mechanics	hypernymy
+351	physical chemistry	chemistry	hypernymy
+352	paleoclimatology	archeology	hypernymy
+353	elementary geometry	geometry	hypernymy
+354	electromagnetism	physics	hypernymy
+355	phytochemistry	organic chemistry	hypernymy
+356	metamathematics	pure mathematics	hypernymy
+357	emergency medicine	medicine	hypernymy
+358	cryonics	cryobiology	hypernymy
+359	brain science	neuroscience	hypernymy
+360	meteorology	earth science	hypernymy
+361	angiology	medicine	hypernymy
+362	synchronic linguistics	linguistics	hypernymy
+363	thermionics	electronics	hypernymy
+364	memory	cognitive psychology	hypernymy
+365	paleozoology	zoology	hypernymy
+366	orology	geology	hypernymy
+367	seismology	geophysics	hypernymy
+368	macrobiotics	dietetics	hypernymy
+369	plane geometry	geometry	hypernymy
+370	periodontics	dentistry	hypernymy
+371	paleobiology	biology	hypernymy
+372	paleomammalogy	paleozoology	hypernymy
+373	group theory	pure mathematics	hypernymy
+374	lexical semantics	semantics	hypernymy
+375	immunopathology	immunology	hypernymy
+376	paleobotany	botany	hypernymy
+377	clinical anatomy	anatomy	hypernymy
+378	penology	criminology	hypernymy
+379	hygiene	medicine	hypernymy
+380	thermodynamics	physics	hypernymy
+381	grammar	descriptive linguistics	hypernymy
+382	rheology	physics	hypernymy
+383	neonatology	pediatrics	hypernymy
+384	paleozoology	paleobiology	hypernymy
+385	plasma physics	physics	hypernymy
+386	taxonomy	systematics	hypernymy
+387	celestial mechanics	astronomy	hypernymy
+388	sports medicine	medicine	hypernymy
+389	statistical mechanics	physics	hypernymy
+390	neurophysiology	physiology	hypernymy
+391	phonology	descriptive linguistics	hypernymy
+392	oncology	medicine	hypernymy
+393	biogeography	biology	hypernymy
+394	machine translation	computational linguistics	hypernymy
+395	astrodynamics	astronomy	hypernymy
+396	analytic geometry	geometry	hypernymy
+397	economic geography	geography	hypernymy
+398	jungian psychology	psychotherapy	hypernymy
+399	nonparametric statistics	statistics	hypernymy
+400	zoology	biology	hypernymy
+401	arithmetic	pure mathematics	hypernymy
+402	primatology	mammalogy	hypernymy
+403	traumatology	medicine	hypernymy
+404	audiology	otology	hypernymy
+405	decomposition	vector algebra	hypernymy
+406	forensic medicine	medicine	hypernymy
+407	psychopharmacology	pharmacology	hypernymy
+408	botany	biology	hypernymy
+409	molecular genetics	genetics	hypernymy
+410	nephrology	medicine	hypernymy
+411	cybernetics	information science	hypernymy
+412	fetology	obstetrics	hypernymy
+413	experimental psychology	psychology	hypernymy
+414	pteridology	botany	hypernymy
+415	regional anatomy	anatomy	hypernymy
+416	fractal geometry	geometry	hypernymy
+417	paleornithology	paleozoology	hypernymy
+418	prescriptive linguistics	linguistics	hypernymy
+419	gastroenterology	medicine	hypernymy
+420	speleology	geology	hypernymy
+421	kinesiology	physiology	hypernymy
+422	mammalogy	zoology	hypernymy
+423	quantum physics	physics	hypernymy
+424	oology	zoology	hypernymy
+425	epidemiology	medicine	hypernymy
+426	abnormal psychology	psychology	hypernymy
+427	dental anatomy	gross anatomy	hypernymy
+428	structural genomics	genomics	hypernymy
+429	paleontology	earth science	hypernymy
+430	morphology	biology	hypernymy
+431	triangulation	trigonometry	hypernymy
+432	quadratics	algebra	hypernymy
+433	euthenics	life science	hypernymy
+434	deixis	semantics	hypernymy
+435	cytology	microscopic anatomy	hypernymy
+436	orthoepy	phonology	hypernymy
+437	harmonics	acoustics	hypernymy
+438	geography	geographical science	synonym
+439	nutrition	nourishment	synonym
+440	nutrition	nutriment	synonym
+441	dermatology	Hand foot and mouth	synonym
+442	mathematics	maths	synonym
+443	mathematics	math	synonym
+444	internal medicine	general medicine	synonym
+445	genomics	genomic science	synonym
+446	phycology	algology	synonym
+447	ophthalmology	eye care	synonym
+448	ophthalmology	eye medicine	synonym
+449	quantum mechanics	quantum theory	synonym
+450	quantum mechanics	wave mechanical model	synonym
+451	quantum mechanics	matrix mechanics	synonym
+452	organic chemistry	Organic Chemistry	synonym
+453	immunology	Allergy and Immunology	synonym
+454	immunology	Immunology	synonym
+455	hydrodynamics	fluid dynamics	synonym
+456	paleobiology	geobiology	synonym
+457	paleobiology	palaeobiology	synonym
+458	natural language processing	NLP	synonym
+459	nosology	study of disorders	synonym
+460	nosology	study of illnesses	synonym
+461	nosology	study of diseases	synonym
+462	entomology	Entomology	synonym
+463	entomology	study of insects	synonym
+464	dietetics	dietology	synonym
+465	topography	regional geography	synonym
+466	psychotherapy	therapy	synonym
+467	fluid mechanics	hydromechanics	synonym
+468	pediatrics	pediatric medicine	synonym
+469	pediatrics	paediatrics	synonym
+470	demography	demographics	synonym
+471	physics	purgative	synonym
+472	physics	physic	synonym
+473	geriatrics	geriatric medicine	synonym
+474	geriatrics	medical gerontology	synonym
+475	obstetrics	tocology	synonym
+476	geometry	Geometry	synonym
+477	biotechnology	biotech	synonym
+478	natural science	natural sciences	synonym
+479	hydrology	hydrologic science	synonym
+480	genetic engineering	genetic manipulation	synonym
+481	genetic engineering	genetic modification	synonym
+482	social science	social sciences	synonym
+483	podiatry	podiatric medicine	synonym
+484	morphology	form	synonym
+485	morphology	body shape	synonym
+486	morphology	build	synonym
+487	morphology	body structure	synonym
+488	biomedicine	medical biology	synonym
+489	biomedicine	Biomedical sciences or Biomedicine	synonym
+490	silviculture	sylviculture	synonym
+491	climatology	climate science	synonym
+492	anatomy	general anatomy	synonym
+493	anatomy	human body	synonym
+494	neuroscience	neurosciences	synonym
+495	statics	static	synonym
+496	chemistry	chemical	synonym
+497	historical linguistics	glottology	synonym
+498	historical linguistics	diachronic linguistics	synonym
+499	systematics	Systematics	synonym
+500	medicine	medical	synonym
+501	solar physics	Space physics	synonym
+502	biochemistry	biological chemistry	synonym
+503	geodesy	geodetics	synonym
+504	cosmology	philosophy of cosmology	synonym
+505	cosmology	physical cosmology	synonym
+506	cosmology	philosophy of cosmos	synonym
+507	cosmology	philosophical cosmology	synonym
+508	oceanography	oceanology	synonym
+509	oceanography	marine science	synonym
+510	syntax	programming language syntax	synonym
+511	ethology	behavioural biology	synonym
+512	ethology	biology of behaviour	synonym
+513	ethology	behavioral biology	synonym
+514	biology	study of life	synonym
+515	biology	biota	synonym
+516	biology	biological science	synonym
+517	linguistics	linguistic	synonym
+518	linguistics	linguistic science	synonym
+519	metallurgy	Metallurgical Engineering	synonym
+520	pathology	Pathology	synonym
+521	pharmacy	community pharmacy	synonym
+522	correlation	correlation and dependence	synonym
+523	correlation	correlation coefficient	synonym
+524	sociolinguistics	socio-linguistics	synonym
+525	sociolinguistics	socio linguistics	synonym
+526	gynecology	gynaecology	synonym
+527	paleobotany	paleophytology	synonym
+528	information science	science of information	synonym
+529	information science	informatics	synonym
+530	information science	information studies	synonym
+531	information science	sciences of information	synonym
+532	information science	information sciences	synonym
+533	limnology	freshwater science	synonym
+534	paleoanthropology	palaeoanthropology	synonym
+535	paleoanthropology	paleanthropology	synonym
+536	dynamics	kinetics	synonym
+537	dynamics	moral force	synonym
+538	semantics	linguistic semantics	synonym
+539	agronomy	agriculture	synonym
+540	ethnology	Ethnology	synonym
+541	physical geography	physiography	synonym
+542	physical geography	geosystems	synonym
+543	hyperbolic geometry	Bolyai-Lobachevskian geometry	synonym
+544	hyperbolic geometry	Lobachevskian geometry	synonym
+545	cardiology	Interventional Radiology	synonym
+546	cardiology	cardiovascular medicine	synonym
+547	genetics	introduction to genetics	synonym
+548	radiobiology	radiation biology	synonym
+549	home economics	domestic science	synonym
+550	home economics	family and consumer sciences	synonym
+551	paleoecology	palaeo-ecology	synonym
+552	paleoecology	palaeoecology	synonym
+553	sociology	Subject:Sociology	synonym
+554	electronics	Electronic devices	synonym
+555	electronics	Electronics	synonym
+556	psychology	Psychology	synonym
+557	orthopedics	orthopedic surgery	synonym
+558	orthopedics	orthopaedics	synonym
+559	surgery	surgical procedure	synonym
+560	surgery	clinic	synonym
+561	aeronautics	Aeronautical engineering	synonym
+562	paleoclimatology	palaeoclimatology	synonym
+563	emergency medicine	accident and emergency medicine	synonym
+564	angiology	vascular medicine	synonym
+565	memory	Memory	synonym
+566	memory	memory in philosophy	synonym
+567	group theory	Symmetry point group	synonym
+568	lexical semantics	lexicosemantics	synonym
+569	neonatology	neonatal medicine	synonym
+570	neonatology	neonatal	synonym
+571	taxonomy	biotaxonomy	synonym
+572	taxonomy	biological classification	synonym
+573	taxonomy	taxonomic scheme	synonym
+574	sports medicine	sport and exercise medicine	synonym
+575	phonology	phonematics	synonym
+576	phonology	phonemics	synonym
+577	machine translation	Machine Translation	synonym
+578	zoology	animal science	synonym
+579	zoology	animal biology	synonym
+580	arithmetic	arithmetics	synonym
+581	decomposition	rotting	synonym
+582	decomposition	factoring	synonym
+583	decomposition	decay	synonym
+584	botany	phytology	synonym
+585	botany	vegetation	synonym
+586	botany	plant sciences	synonym
+587	botany	plant biology	synonym
+588	botany	plant science	synonym
+589	speleology	spelæology	synonym
+590	speleology	spelaeology	synonym
+591	quantum physics	modern physics	synonym
+592	paleontology	palaeontology	synonym
+593	triangulation	Triangulation	synonym
+594	science	sciences	synonym
+595	science	scientific	synonym
+596	acoustics	acoustic	synonym
+597	analysis	psychoanalysis	synonym
+598	mechanics	mechanism	synonym
+599	mechanics	automobile mechanic	synonym
+600	mechanics	machinist	synonym
+601	statistics	statistic	synonym
+602	optics	eye	synonym
+603	radiology	radioscopy	synonym
+604	therapeutics	remedy	synonym
+605	hypsography	hypsometry	synonym
+606	nonparametric statistics	nonparametric statistic	synonym
+607	quadratics	quadratic equation	synonym
+608	quadratics	quadratic	synonym
+609	orthoepy	pronunciation	synonym
+610	harmonics	harmonic	synonym

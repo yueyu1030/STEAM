@@ -1,0 +1,90 @@
+0	internal medicine	medicine	hypernymy
+1	conchology	malacology	hypernymy
+2	volcanology	geophysics	hypernymy
+3	paleornithology	paleozoology	hypernymy
+4	natural language processing	information science	hypernymy
+5	comparative psychology	psychology	hypernymy
+6	applied psychology	psychology	hypernymy
+7	undercut	forestry	hypernymy
+8	demography	sociology	hypernymy
+9	electrostatics	physics	hypernymy
+10	biomedical science	life science	hypernymy
+11	proctology	medicine	hypernymy
+12	herpetology	zoology	hypernymy
+13	podiatry	medicine	hypernymy
+14	problem solving	cognitive psychology	hypernymy
+15	functional genomics	genomics	hypernymy
+16	spherical geometry	geometry	hypernymy
+17	integral calculus	calculus	hypernymy
+18	petroleum geology	economic geology	hypernymy
+19	paleornithology	paleozoology	hypernymy
+20	therapeutics	medicine	hypernymy
+21	architectonics	science	hypernymy
+22	phrenology	craniology	hypernymy
+23	paleoanthropology	vertebrate paleontology	hypernymy
+24	phonetics	acoustics	hypernymy
+25	paleoethnography	archeology	hypernymy
+26	myology	physiology	hypernymy
+27	first order correlation	partial correlation	hypernymy
+28	nuclear physics	physics	hypernymy
+29	egyptology	archeology	hypernymy
+30	sumerology	archeology	hypernymy
+31	derivational morphology	morphology	hypernymy
+32	strategics	science	hypernymy
+33	home economics	social science	hypernymy
+34	paleogeography	archeology	hypernymy
+35	orthodontics	dentistry	hypernymy
+36	positive correlation	correlation	hypernymy
+37	cryptanalysis	science	hypernymy
+38	physical chemistry	chemistry	hypernymy
+39	paleoclimatology	archeology	hypernymy
+40	elementary geometry	geometry	hypernymy
+41	brain science	neuroscience	hypernymy
+42	angiology	medicine	hypernymy
+43	seismology	geophysics	hypernymy
+44	macrobiotics	dietetics	hypernymy
+45	periodontics	dentistry	hypernymy
+46	statistical mechanics	physics	hypernymy
+47	biogeography	biology	hypernymy
+48	analytic geometry	geometry	hypernymy
+49	decomposition	vector algebra	hypernymy
+50	psychopharmacology	pharmacology	hypernymy
+51	cybernetics	information science	hypernymy
+52	paleornithology	paleozoology	hypernymy
+53	prescriptive linguistics	linguistics	hypernymy
+54	epidemiology	medicine	hypernymy
+55	euthenics	life science	hypernymy
+56	nutrition	nutriment	synonym
+57	internal medicine	general medicine	synonym
+58	phycology	algology	synonym
+59	natural language processing	NLP	synonym
+60	nosology	study of diseases	synonym
+61	demography	demographics	synonym
+62	hydrology	hydrologic science	synonym
+63	podiatry	podiatric medicine	synonym
+64	statics	static	synonym
+65	historical linguistics	glottology	synonym
+66	solar physics	Space physics	synonym
+67	cosmology	philosophy of cosmology	synonym
+68	ethology	biology of behaviour	synonym
+69	sociolinguistics	socio-linguistics	synonym
+70	sociolinguistics	socio linguistics	synonym
+71	limnology	freshwater science	synonym
+72	paleoanthropology	palaeoanthropology	synonym
+73	paleoanthropology	paleanthropology	synonym
+74	agronomy	agriculture	synonym
+75	physical geography	physiography	synonym
+76	physical geography	geosystems	synonym
+77	hyperbolic geometry	Lobachevskian geometry	synonym
+78	radiobiology	radiation biology	synonym
+79	home economics	domestic science	synonym
+80	home economics	family and consumer sciences	synonym
+81	orthopedics	orthopaedics	synonym
+82	paleoclimatology	palaeoclimatology	synonym
+83	angiology	vascular medicine	synonym
+84	neonatology	neonatal medicine	synonym
+85	decomposition	rotting	synonym
+86	decomposition	factoring	synonym
+87	decomposition	decay	synonym
+88	therapeutics	remedy	synonym
+89	nonparametric statistics	nonparametric statistic	synonym
