@@ -107,7 +107,7 @@ def testing(models, taxo_test, device, test_syn, test_hyn, dep_path, epoch, args
         pass
     print('\n=> Testing: Mean Rank:%.2f/%d, Acc = %.3f'%(np.mean(rank), l, float(correct/total)))
     
-def testing_f1(models, taxo_test, device, test_syn, test_hyn, dep_path, epoch, args, inv_paths_index, idx_cnt, metric= 'mean', is_softmax = False, compound = False, synonym = True, innerpath= False):
+def testing_f1(models, taxo_test, device, test_syn, test_hyn, dep_path, epoch, args, inv_paths_index, metric= 'mean', is_softmax = False, compound = False, synonym = True, innerpath= False):
     models.eval() 
     wum = np.loadtxt('%s/wum.txt'%(args.fp))
     y_true = []
@@ -126,7 +126,6 @@ def testing_f1(models, taxo_test, device, test_syn, test_hyn, dep_path, epoch, a
     score_save = {}
     rank_save = {}
     path_save = {}
-    cnt_save = {}
     score_test_save = {}
     target_paths = [taxo_test.taxo[i]["path"] for i in range(len(taxo_test))]
     inner_paths = [taxo_test.inner_paths[i] for i in range(len(taxo_test))]
@@ -219,13 +218,10 @@ def testing_f1(models, taxo_test, device, test_syn, test_hyn, dep_path, epoch, a
                 correct += 1
             total_rank += 1
             rank.append(rank_)
-
-            #score_pred[t] = np.mean(score_t[attach_pos])
             score_save[t] = score_tmp#
             score_test_save[t] = np.float(np.mean(score_t[attach_pos]))
             rank_save[t] = rank_
             path_save[t] = num_paths[attach_pos]
-            cnt_save[t] = [idx_cnt[str(attach_pos)] if str(attach_pos) in idx_cnt else 0, idx_cnt[str(test_node)] if str(test_node) in idx_cnt else 0]
 
         score_pred[t] = score_t
         num_of_paths[test_node] = num_paths
@@ -263,7 +259,6 @@ def testing_f1(models, taxo_test, device, test_syn, test_hyn, dep_path, epoch, a
         write_json('../log_result/rank_test_%d_%s.json'%(epoch, args.model_name), rank_save)
         write_json('../log_result/score_test_%d_%s.json'%(epoch, args.model_name), score_test_save)
         write_json('../log_result/score_%d_%s.json'%(epoch, args.model_name), score_save)
-        write_json('../log_result/cnt_test_%d_%s.json'%(epoch, args.model_name), cnt_save)
         write_json('../log_result/path_test_%d_%s.json'%(epoch, args.model_name), path_save)
         import time
     with open('../log_result/%s.txt'%(args.model_name), 'a+') as f:
