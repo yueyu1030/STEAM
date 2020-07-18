@@ -9,26 +9,6 @@ This is the code repository for our KDD'20 paper STEAM: Self-Supervised Taxonomy
 * Numpy
 * transformers
 
-## Folder Structure
-  ```
-  ├── model/ - models, losses, and metrics
-  │   ├── model_fuse.py // main modules of STEAM
-  │   ├── layers_path.py // neural layers of STEAM
-  │   ├── run_fuse.sh // script to run the code
-  │   ├── utils_path.py // utility functions: loading train data, test data and sample mini-paths
-  │   └── test_fuse.py // script for testing the model
-  ├── data_science_wordnet_en_0.2/ - folder for science wordnet
-  │   ├── score_gnn.txt - scores for PGAT propogated embeddings
-  │   ├── LD.txt, gene_diff.txt, nfd_norm.txt, LCS.txt, Contains.txt, Suffix.txt, Ends.txt  - value matrix of term pairs with 7 lexico-syntactic patterns 
-  │   ├── paths.json - dependency path information for all possible paths
-  │   ├── paths_index.json - the index information for all dependency paths
-  │   ├── taxo_path.json - all the paths from the training set of the seed taxonomy
-  │   ├── taxo_node_info.json - all the term information in the seed taxonomy
-  ├── data_environment_eurovoc_en_0.2/ - folder for environment wordnet
-  │   └── structure similar to above one
-  └── log_results/ - store results
-  ```
-
 ## Usage
 Use `run.sh` from `model/` to run the code.
 Some Key parameters:
@@ -49,7 +29,25 @@ Some Key parameters:
 }
 ```
 
-Add addional configurations if you need.
+## Folder Structure
+  ```
+  ├── model/ - models, losses, and metrics
+  │   ├── model_fuse.py // main modules of STEAM
+  │   ├── layers_path.py // neural layers of STEAM
+  │   ├── run_fuse.sh // script to run the code
+  │   ├── utils_path.py // utility functions: loading train data, test data and sample mini-paths
+  │   └── test_fuse.py // script for testing the model
+  ├── data_science_wordnet_en_0.2/ - folder for science wordnet
+  │   ├── score_gnn.txt - scores for PGAT propogated embeddings
+  │   ├── LD.txt, gene_diff.txt, nfd_norm.txt, LCS.txt, Contains.txt, Suffix.txt, Ends.txt  - value matrix of term pairs with 7 lexico-syntactic patterns 
+  │   ├── paths.json - dependency path information for all possible paths
+  │   ├── paths_index.json - the index information for all dependency paths
+  │   ├── taxo_path.json - all the paths from the training set of the seed taxonomy
+  │   ├── taxo_node_info.json - all the term information in the seed taxonomy
+  ├── data_environment_eurovoc_en_0.2/ - folder for environment wordnet
+  │   └── structure similar to above one
+  └── log_results/ - store results
+  ```
 
 ## Processing Text Data on Your Own
 The way to obtain your own corpus is described as follows
